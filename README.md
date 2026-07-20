@@ -8,19 +8,18 @@ I am a physicist interested in Quantum Technology and high-energy physics data a
     *   *Published via HEPYorkCUNY Collaboration*
     *   Coauthored research analyzing tracking quality configurations, bridging pre-existing Artificial Neural Network (ANN) modules with multi-threaded Boosted Decision Tree (BDT) verification frameworks.
 
-## Collaboration Presentations & Technical Talks
+## Collaboration Presentations and Technical Talks
 
-*   **[Mu2e Collaboration Software Committee Presentations](https://github.com/Malik-Farouh/Mu2e_XGboost_Project/tree/main/presentations)** (3 Talks | 2026)
-    *   *Delivered directly to the official Mu2e Experiment Working Group. Click the link above to access the full slide decks.*
+*   **[Mu2e Collaboration Software Committee Presentations](https://github.com)** (3 Talks | 2026)
+    *   Presented directly to the Mu2e Experiment Working Group. The full slide decks are available via the repository link above.
+
+    *   **Talk 1: Application of Boosted Decision Trees for High-Quality Track Selection in the Mu2e Experiment** — Provided updates to the Mu2e committees on recent developments and classification benchmarks regarding the Boosted Decision Tree (BDT) model.
+        *   Official Reference: Mu2e-doc-55327
   
-**Talk 1: Application of Boosted Decision Trees for High-Quality Track Selection in the Mu2e Experiment** — Updating Mu2e committees on the recent developments and classification benchmarks of the Boosted Decision Tree (BDT) model. Reference: Mu2e-doc-55327 (https://github.com)
-
-**Talk 2: Integrating an XGBoost Model into the Mu2e Offline Framework: From Python to C++** — The BDT model is developed using Python as our main language, but the core Mu2e software is written in C++. We engineered a pipeline to translate the BDT model parameters directly into native C++ structures at readout time.
-
-  *  **Workflow:** Train XGBoost Model in Python $\rightarrow$ Convert to C++ with `m2cgen` $\rightarrow$ Run Conversion Script $\rightarrow$ Integrate into Mu2e Offline Pipeline.
+    *   **Talk 2: Integrating an XGBoost Model into the Mu2e Offline Framework: From Python to C++** — Dealt with software translation requirements. While the BDT model is developed in Python, the core Mu2e offline software framework is compiled in C++. This talk detailed the engineering pipeline used to translate Python model parameters directly into native C++ structures at readout time.
+        *   *Workflow:* Python Model Training -> C++ Conversion via m2cgen -> Execution of Conversion Script -> Integration into the Mu2e Offline Pipeline.
   
-**Talk 3: Testing the BDT Model’s Ability to Classify Tracks Across Perturbed Datasets** — This study focuses on momentum error (`momerr`) variables to test the BDT's operational boundaries and ensure classifier stability remains robust across distinct simulated dataset variations.
-
+    *   **Talk 3: Testing the BDT Model’s Ability to Classify Tracks Across Perturbed Datasets** — Evaluated model stability under data stress testing. This study focused specifically on momentum error (momerr) variables to determine operational boundaries and ensure classifier performance remains stable across simulated dataset variations.
 
 ## Featured Machine Learning Workspaces
 
