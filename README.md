@@ -13,7 +13,7 @@ I am a physicist interested in Quantum Technology and high-energy physics data a
 *   **[Mu2e Collaboration Software Committee Presentations](https://github.com)** (3 Talks | 2026)
     *   Presented directly to the Mu2e Experiment Working Group. The full slide decks are available via the repository link above.
 
-    *   **Talk 1: Application of Boosted Decision Trees for High-Quality Track Selection in the Mu2e Experiment** — Provided updates to the Mu2e committees on recent developments and classification benchmarks regarding the Boosted Decision Tree (BDT) model.
+    *   **Talk 1: Application of Boosted Decision Trees for High-Quality Track Selection in the Mu2e Experiment** – Provided updates to the Mu2e committees on recent developments and classification benchmarks regarding the Boosted Decision Tree (BDT) model.
         *   Official Reference: Mu2e-doc-55327
   
     *   **Talk 2: Integrating an XGBoost Model into the Mu2e Offline Framework: From Python to C++** — Dealt with software translation requirements. While the BDT model is developed in Python, the core Mu2e offline software framework is compiled in C++. This talk detailed the engineering pipeline used to translate Python model parameters directly into native C++ structures at readout time.
