@@ -6,7 +6,7 @@ I am a physicist interested in Quantum Technology and high-energy physics data a
 
 *   **[Technical Note: TrkQual ANN-BDT Analysis](https://github.com)**
     *   *Published via HEPYorkCUNY Collaboration*
-    *   *Coauthored research analyzing track quality discrimination power, bridging pre-existing Artificial Neural Network (ANN) modules with a Boosted Decision Tree (BDT) framework. The developed BDT architecture retains greater classification power, demonstrates faster training efficiency on unseen datasets, and exhibits enhanced robustness under hardware and parameter stress testing.
+    *   Coauthored research analyzing track quality discrimination power, bridging pre-existing Artificial Neural Network (ANN) modules with a Boosted Decision Tree (BDT) framework. The developed BDT architecture retains greater classification power, demonstrates faster training efficiency on unseen datasets, and exhibits enhanced robustness under hardware and parameter stress testing.
 
 ## Collaboration Presentations and Technical Talks
 
