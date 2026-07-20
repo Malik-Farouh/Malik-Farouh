@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Malik | Experimental Physicist
+# Hi, I'm Malik | Experimental Physicist
 
 I am a physicist interested in Quantum Technology and high-energy physics data analysis pipelines, applying advanced machine learning frameworks to track reconstruction and classification challenges.
 
