@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Malik | Experimental Physicist
 
-<!--
-**Malik-Farouh/Malik-Farouh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a physicist interested in Quantum Technology and high-energy physics data analysis pipelines, applying advanced machine learning frameworks to track reconstruction and classification challenges.
 
-Here are some ideas to get you started:
+## Research & Technical Publications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   **[Technical Note: TrkQual ANN-BDT Analysis]([https://github.com](https://github.com/HEPYorkCUNY/Notes))**
+    *   *Published via HEPYorkCUNY Collaboration*
+    *   Coauthored research analyzing tracking quality configurations, bridging pre-existing Artificial Neural Network (ANN) modules with multi-threaded Boosted Decision Tree (BDT) verification frameworks.
+
+
+## Featured Machine Learning Workspaces
+
+*   **[Mu2e_XGboost_Project]([https://github.com](https://github.com/Malik-Farouh/Mu2e_XGboost_Project))**
+    *   A complete machine learning pipeline engineered to run parallel to ANN model that has been deployed in the offline version of the Mu2e experiment.
+    *   Built utilizing `XGBoost`, `TensorFlow`, `PyTorch`, and `ONNX` configurations optimized for multi-threaded processing.
+
+
+## Technical Toolkit
+
+*   **Languages:** Python, LaTeX (for academic reporting)
+*   **Machine Learning:** XGBoost (BDT), TensorFlow, PyTorch, Scikit-Learn, ONNX Runtime
+*   **Physics Frameworks:** CERN ROOT 
