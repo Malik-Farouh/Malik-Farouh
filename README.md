@@ -1,6 +1,6 @@
 # Hi, I'm Malik | Experimental Physicist
 
-I am a physicist interested in Quantum Technology and high-energy physics data analysis pipelines, applying advanced machine learning frameworks to track reconstruction and classification challenges.
+I am a physicist focused on quantum communication, quantum sensing, and quantum machine learning. Within the Mu2e experiment at Fermilab, I create machine learning classification frameworks designed to suppress background noise tracks and optimize quality signal track retention.
 
 ## Research & Technical Publications
 
@@ -21,7 +21,7 @@ I am a physicist interested in Quantum Technology and high-energy physics data a
   
     *   **Talk 3: Testing the BDT Model’s Ability to Classify Tracks Across Perturbed Datasets** — Evaluated model stability under data stress testing. This study focused specifically on momentum error (momerr) variables to determine operational boundaries and ensure classifier performance remains stable across simulated dataset variations.
 
-## Featured Machine Learning Workspaces
+## Machine Learning Workspaces
 
 *   **[Mu2e_XGboost_Project](https://github.com)**
     *   A complete machine learning pipeline engineered to run parallel to ANN model that has been deployed in the offline version of the Mu2e experiment.
@@ -30,6 +30,6 @@ I am a physicist interested in Quantum Technology and high-energy physics data a
 
 ## Technical Toolkit
 
-*   **Languages:** Python, LaTeX (for academic reporting)
+*   **Languages:** Python, LaTeX 
 *   **Machine Learning:** XGBoost (BDT), TensorFlow, PyTorch, Scikit-Learn, ONNX Runtime
 *   **Physics Frameworks:** CERN ROOT 
